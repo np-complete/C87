@@ -1,6 +1,6 @@
 * [まえがき](intro.md)
 * [HeatBleed](heartbleed.md)
-* [List型攻撃](list-attack.md)
+* [大規模リスト型攻撃](list-attack.md)
 * [LINE詐欺](line.md)
 * [ShellShock](shellshock.md)
 * [POODLE](poodle.md)

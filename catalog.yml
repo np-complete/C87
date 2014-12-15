@@ -4,5 +4,6 @@ CHAPS:
   - heartbleed.re
   - list-attack.re
   - line.re
+  - benesse.re
   - shellshock.re
   - poodle.re

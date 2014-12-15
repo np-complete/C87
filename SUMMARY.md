@@ -2,5 +2,6 @@
 * [HeatBleed](heartbleed.md)
 * [大規模リスト型攻撃](list-attack.md)
 * [LINE詐欺](line.md)
+* [ベネッセ個人情報流出事件](benesse.md)
 * [ShellShock](shellshock.md)
 * [POODLE](poodle.md)

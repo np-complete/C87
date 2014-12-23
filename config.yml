@@ -13,12 +13,14 @@ okuduke_keys:
   - aut
   - crl
   - rep
+  - gitbook
   - prt
 # 著者
 dat: C87 2014.12.30
 aut: まさらっき
 crl: NP-complete
 rep: https://github.com/np-complete/c87
+gitbook: http://masarakki.gitbooks.io/c87-internet-security-2014/
 prt: Kinko's
 
 # 以下はオプション

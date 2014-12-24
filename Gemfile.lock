@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/masarakki/md2review.git
-  revision: 3d95dcce45313fb9274f9488458c29dd805eeabb
+  revision: 6cd5ce193dec95497d98cfe5157ca1fe78e5ff03
   branch: link-as-footnote
   specs:
     md2review (1.2.0)

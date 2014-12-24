@@ -94,5 +94,5 @@ SALTが付くことで、対応表に乗っているパスワードを使って�
 
 あと何の関係があるか(**公式には**)全くわからないけど2つリンクをおいておきますね。
 
-- [yahoo](http://yahoo.co.jp)
-- [adobe](https://www.adobe.com)
+- http://yahoo.co.jp
+- https://www.adobe.com

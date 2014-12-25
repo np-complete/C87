@@ -9,7 +9,7 @@ CLEAN.include(OBJS)
 CLOBBER.include(TARGET)
 
 rule '.re' => '.md' do |t|
-  sh "bundle exec md2review --render-link-as-footnote #{t.source} > #{t.name}"
+  sh "bundle exec md2review --render-link-in-footnote #{t.source} > #{t.name}"
 end
 
 desc "generate pdf"

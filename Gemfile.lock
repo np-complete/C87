@@ -1,17 +1,16 @@
 GIT
-  remote: git://github.com/masarakki/md2review.git
-  revision: 6cd5ce193dec95497d98cfe5157ca1fe78e5ff03
-  branch: link-as-footnote
-  specs:
-    md2review (1.2.0)
-      redcarpet (> 2.0.0)
-
-GIT
   remote: git://github.com/masarakki/review.git
   revision: 67e521cd75a3b60afb63edba01d9952b92adc0b2
   branch: c86
   specs:
     review (1.3.0)
+
+GIT
+  remote: git://github.com/takahashim/md2review.git
+  revision: 6b8a5f919edd567c4338aa91a79ca01c9ae1ac39
+  specs:
+    md2review (1.2.0)
+      redcarpet (> 2.0.0)
 
 GEM
   remote: https://rubygems.org/
